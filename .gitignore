@@ -1,0 +1,8 @@
+__pycache__/
+dist/
+output/
+raw/images/
+src/data/
+src/images/
+output.pdf
+*.pyc
